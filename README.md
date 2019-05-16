@@ -20,5 +20,11 @@ To launch the bot, please set the "mal_linker_bot" folder as working directory u
 
 Then type `node .` to launch app.
 
+Type the search key words after commands, then the bot will search and link the database website with message about basic matadata of search result.
+
 ### Commands
-* 
+* !!  (search the entirety of mal)
+* a!  (search anime)
+* m!  (search manga)
+* c!  (search character)
+* p!  (search people, like director)
