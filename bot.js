@@ -8,7 +8,7 @@ var cheerio = require('cheerio');
 
 bot.on('message', (message) => {
 
-    var flag = /^[ampcl!]!/.exec(message.content);
+    var flag = /^[ampc!]!/.exec(message.content);
 
 
 
