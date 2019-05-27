@@ -1,6 +1,6 @@
-# mal_linker_bot
+# MalLinker
 
-mal_linker bot is a discord bot that searches myanimelist and links the database webpage when user searches anime/manga titles using the specified command.
+MalLinker is a discord bot that searches myanimelist and links the database webpage when user searches anime/manga titles using the specified command.
 
 ![text](https://i.imgur.com/rxAagSp.png)
 
